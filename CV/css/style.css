@@ -1,0 +1,38 @@
+body {
+    margin: 0%;
+}
+main {
+    display: flex;
+}
+#container1 {
+    width: 50%;
+}
+#container1 h3 {
+    margin-left: 3em;
+}  
+#container1 p {
+    margin-left: 5em;
+}
+#container1 ul {
+    margin-left: 4em;
+}
+header {
+    padding-bottom: 2em;
+}
+#container2 h1 {
+    margin-left: 2.5em;
+}
+#container2 h2 {
+    margin-left: 3em;
+}
+#container2 h3 {
+    margin-left: 3em;
+}
+#container2 p {
+    margin-left: 5em;
+}
+#container2 ul {
+    margin-left: 4em;
+}
+
+
